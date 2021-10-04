@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = walid.marouf@gmail.com
+	name = Walid Marouf
